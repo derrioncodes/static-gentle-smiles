@@ -42,7 +42,7 @@
     color: white;
     font-size: 3.5em;
     text-transform: uppercase;
-    letter-spacing: 6px;
+    letter-spacing: 0.1em;
 }
 .hero-cta h1.background-color-text{
     background-color: white;
@@ -67,7 +67,7 @@
     color: white;
     text-transform: uppercase;
     font-weight: 700;
-    letter-spacing: 1px;
+    letter-spacing: 0.1em;
 }
 
 .cta-buttons .request-free-exam-btn button{
@@ -79,7 +79,7 @@
     color: #5FBCD9;
     text-transform: uppercase;
     font-weight: 700;
-    letter-spacing: 1px;
+    letter-spacing: 0.1em;
 }
 
 @media screen and (max-width: 850px) {
@@ -116,4 +116,13 @@
     .cta-buttons .why-were-awesome-btn button{
         margin-bottom: 20px;
     }
+}
+
+@media screen and (max-width: 480px) {
+    
+    
+    .hero-cta h1{
+        font-size: 2.5rem;
+    }
+    
 }
