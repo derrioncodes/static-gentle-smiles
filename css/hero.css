@@ -67,6 +67,7 @@
     color: white;
     text-transform: uppercase;
     font-weight: 700;
+    cursor: pointer;
     letter-spacing: 0.1em;
 }
 
