@@ -3,6 +3,11 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+    
+}
+
+body{
+    overflow-x: hidden;
 }
 
 a {
@@ -12,4 +17,8 @@ a {
 
 p {
     color: #23423B;
+}
+
+ul{
+    list-style: none;
 }
