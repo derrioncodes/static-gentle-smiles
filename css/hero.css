@@ -59,29 +59,9 @@
 }
 
 .cta-buttons .why-were-awesome-btn button{
-    background-color: #5FBCD9;
-    border: 2px solid white;
-    width: 260px;
-    height: 60px;
     margin-right: 25px;
-    color: white;
-    text-transform: uppercase;
-    font-weight: 700;
-    cursor: pointer;
-    letter-spacing: 0.1em;
 }
 
-.cta-buttons .request-free-exam-btn button{
-    background-color: white;
-    border: 2px solid white;
-    width: 260px;
-    height: 60px;
-    cursor: pointer;
-    color: #5FBCD9;
-    text-transform: uppercase;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-}
 
 @media screen and (max-width: 850px) {
     .hero-cta {

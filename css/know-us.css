@@ -76,16 +76,7 @@
 
 .know-us_container button{
     margin-bottom: 100px;
-    background-color: transparent;
-    border: 2px solid #5FBCD9;
-    width: 260px;
-    height: 60px;
     margin-right: 25px;
-    color: #5FBCD9;
-    text-transform: uppercase;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-    cursor: pointer;
 }
 
 .know-us_container.desktop-hide{

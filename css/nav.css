@@ -60,21 +60,11 @@
 }
 
 .desktop-nav .nav-button{
-    background-color: white;
-    border: 2px solid #5FBCD9;
     width: 245px;
-    height: 55px;
-    cursor: pointer;
-    color: #5FBCD9;
-    font-weight: 700;
-    letter-spacing: 0.1em;
+    height: 55px; 
 }
 
-.desktop-nav .nav-button:hover{
-    background-color: #5FBCD9;
-    color: white;
-   
-}
+
 
 .desktop-nav .open-mobile-menu{
     display: none;
@@ -201,21 +191,7 @@
     padding-bottom: 90px;
 }
 
-.mobile-nav_container .free-exam-nav-button{
-    background-color: white;
-    border: 2px solid #5FBCD9;
-    width: 245px;
-    height: 55px;
-    cursor: pointer;
-    color: #5FBCD9;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-}
 
-.mobile-nav_container .free-exam-nav-button:hover{
-    background-color: #5FBCD9;
-    color: white;
-}
 
 
 
