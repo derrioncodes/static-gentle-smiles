@@ -58,7 +58,7 @@
     display: flex;
 }
 
-.cta-buttons .why-were-awesome-btn button{
+.cta-buttons .why-were-awesome-btn{
     margin-right: 25px;
 }
 
@@ -94,7 +94,7 @@
         margin-top: 50px;
         display: block;
     }
-    .cta-buttons .why-were-awesome-btn button{
+    .cta-buttons .why-were-awesome-btn{
         margin-bottom: 20px;
     }
 }

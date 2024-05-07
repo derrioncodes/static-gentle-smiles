@@ -212,7 +212,8 @@
     }
     .desktop-nav .open-mobile-menu{
         display: block;
-        padding:24px;
+        /* padding:24px; */
+        padding: 10px 0 10px 10px;
         background-color: transparent;
         font-size: 24px;
         border: none;

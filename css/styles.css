@@ -14,22 +14,46 @@ a {
     color: inherit;
 }
 
+h2 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
 p {
     color: #23423B;
+    letter-spacing: 0.1em;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.text20{
+    font-size: 20px;
+    letter-spacing: 0.1em;
+}
+
+.overline{
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: 0.1em;
 }
 
 ul{
     list-style: none;
 }
 
+
+
 /* START OF BUTTON CLASSES */
 
-button {
+.btn {
     height: 60px;
     text-transform: uppercase;
     font-weight: 700;
     cursor: pointer;
     letter-spacing: 0.1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .white-bg__btn{

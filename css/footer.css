@@ -107,7 +107,8 @@ footer h1 span {
 }
 
 .footer_free-exam-btn{
-    text-align: center;
+    display: flex;
+    justify-content: center;
     margin-bottom: 90px;
 }
 

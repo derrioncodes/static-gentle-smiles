@@ -36,9 +36,6 @@
     
 }
 
-.meet-doctor-container button{
-    margin-right: 25px;
-}
 
 .meet-doctor-container .right-side {
     width: 50%;
@@ -73,6 +70,7 @@
         display: flex;
         flex-direction: column-reverse;
         background-color: #F4F4F4;
+        padding-bottom: 100px;
     }
 
     .meet-doctor-container .left-side{
@@ -93,6 +91,11 @@
         width: 100%;
         max-width: 100%;
         
+    }
+
+    .meet-the-doctor-button{
+        display: flex;
+        justify-content: center;
     }
 
     .meet-doctor-container .right-side{

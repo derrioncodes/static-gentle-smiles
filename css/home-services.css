@@ -37,23 +37,12 @@
 
 .services-container .service .info h3{
     text-transform: uppercase;
-    font-size: 20px;
-    letter-spacing: .1em;
     margin-bottom: 10px;
 }
 
-.services-container .service .info p{
-    font-size: 16px;
-    letter-spacing: .1em;
-    color: #23424B;
-    font-weight: 300;
-}
 
 @media screen and (max-width: 1400px) {
-    /* .service-section {
-        margin-left: 50px;
-        margin-right: 50px;
-    } */
+
 
     .services-container .service .image img{
         width: 60px;
