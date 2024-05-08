@@ -56,13 +56,10 @@
 }
 
 .know-us_container .right-side h2{
-    font-size: 32px;
     margin-bottom: 50px;
 }
 
 .know-us_container .right-side p{
-    font-size: 16px;
-    letter-spacing: 0.1em;
     margin-bottom: 50px;
     width: 100%;
     max-width: 500px;
@@ -216,13 +213,10 @@
     }
     
     .know-us_container .know-us_info h2{
-        font-size: 32px;
         margin-bottom: 30px;
     }
     
     .know-us_container .know-us_info p{
-        font-size: 16px;
-        letter-spacing: 0.1em;
         margin-bottom: 50px;
         width: 100%;
         

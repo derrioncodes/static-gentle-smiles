@@ -14,19 +14,13 @@
 .how-we-help-container .headlines h1{
     margin-top: 100px;
     margin-bottom: 15px;
-    font-weight: 300;
-    font-size: 14px;
-    letter-spacing: 0.1em;
 }
 
 .how-we-help-container .headlines h2{
-    font-size: 32px;
     margin-bottom: 40px;
 }
 
 .how-we-help-container .headlines p{
-    font-size: 16px;
-    letter-spacing: 0.1em;
     margin-bottom: 60px;
 
 }
@@ -40,7 +34,6 @@
 
 .how-we-help_services .service{
     background-color: #E1F3F9;
-    /* width: 30%; */
 }
 
 .how-we-help_services .service .service-img{
@@ -66,7 +59,6 @@
 
 .how-we-help_services .service .info p{
     margin-bottom: 10px;
-    letter-spacing: 0.1em;
     font-size: 14px;
     margin-bottom: 30px;
 }
