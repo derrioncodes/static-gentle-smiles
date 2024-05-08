@@ -100,7 +100,10 @@
 }
 
 @media screen and (max-width: 480px) {
-    
+    .hero-cta{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
     
     .hero-cta h1{
         font-size: 2.5rem;

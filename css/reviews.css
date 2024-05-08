@@ -64,12 +64,32 @@
     }
 
     .reviews-container .review-text{
+        /* display: block; */
+        width: 100%;
         width: 80%;
         margin: 0 auto;
         padding-bottom: 50px;
     }
 
     .reviews-container .review-text p{
-        max-width: 700px;
+        max-width: 680px;
+    }
+}
+
+@media screen and (max-width: 640px){
+    .reviews-container .review-text{
+        width: 85%;
+    }
+    .reviews-container .review-text p{
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .reviews-container .review-text{
+        width: 95%;
+    }
+    .reviews-container .review-text p{
+        max-width:100%;
     }
 }

@@ -230,3 +230,18 @@
 
 
 }
+
+@media screen and (max-width: 640px){
+    .know-us_container.desktop-hide{
+        padding-left: 50px;
+        padding-right: 50px;
+        
+    }
+}
+
+@media screen and (max-width: 480px){
+    .know-us_container.desktop-hide{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}

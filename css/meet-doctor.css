@@ -103,3 +103,18 @@
         object-position: 100% 20%;
     }
 }
+
+@media screen and (max-width: 640px){
+    .meet-doctor-container .left-side{
+        padding-left: 50px;
+        padding-right: 50px;
+        
+    }
+}
+
+@media screen and (max-width: 480px){
+    .meet-doctor-container .left-side{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
