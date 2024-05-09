@@ -131,8 +131,6 @@
 }
 
 .page-widget .widget-links li a{
-    /* padding-top: 15px;
-    padding-bottom: 15px; */
     padding: 15px 8px;
     display: flex;
     justify-content: center;
@@ -142,7 +140,7 @@
 @media (max-width: 950px){
     .page-widget .widget-header{
         background-color: #5FBCD9;
-        padding: 20px 30px;
+        padding: 15px 30px;
     }
     .page-widget .widget-header h3{
         color: white;
@@ -169,12 +167,21 @@
     }
     .page-widget .widget-header{
         background-color: #5FBCD9;
-        padding: 20px ;
+        padding: 15px 20px ;
     }
     .page-widget .widget-header h3{
         color: white;
         text-transform: uppercase;
         font-size: 16px;
         font-weight: 600;
+    }
+}
+
+@media (max-width: 600px){
+    .page-widget {
+        width:100%;
+        max-width: 100%;
+        text-align: center;
+        
     }
 }
