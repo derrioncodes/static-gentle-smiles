@@ -110,7 +110,7 @@
 
 .page-widget .widget-header{
     background-color: #5FBCD9;
-    padding: 20px 50px;
+    padding: 15px 50px;
 }
 
 .page-widget .widget-header h3{
@@ -122,18 +122,21 @@
 
 .page-widget .widget-links{
     background-color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
     
 }
 
-.page-widget .widget-links li{
-    margin-bottom: 20px;
+
+.page-widget .widget-links li:hover{
+    background-color: #d4e6eb;
 }
 
 .page-widget .widget-links li a{
-    padding-top: 20px;
-    padding-bottom: 20px;
+    /* padding-top: 15px;
+    padding-bottom: 15px; */
+    padding: 15px 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 @media (max-width: 950px){
